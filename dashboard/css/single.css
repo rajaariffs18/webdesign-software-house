@@ -1,0 +1,103 @@
+html{
+  position: relative;
+  width: 100%;
+  min-height: 100%;
+  padding-bottom: 55px;
+}
+
+footer{
+  position: absolute;
+  bottom: 0px;
+  height: 45px;
+}
+
+.page h1, .page h2, .page h3 , .page p{
+  text-transform: none;
+  margin: 0;
+  padding: 0;
+}
+
+.caption {color: white; margin-top: 31px;}
+
+.konten-single { padding: 15px 5px;}
+
+.isi-post p {
+    color: black;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 200%;
+}
+
+img.img-post {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+
+img.img-portfolio {width: 90%;margin: 0 auto; display:block;}
+
+.deskripsi{margin-top: 25px}
+
+.deskripsi h4{ color: rgb(134, 135, 135);}
+
+.komentar { margin-top: 25px;}
+
+.komentar h3, .input-komentar h3{
+    background: #F7F7F7;
+    padding: 10px;
+}
+
+
+.komentar ul li {
+    background: #F7F7F7;
+    margin: 5px 0px;
+    padding: 5px 15px;
+}
+
+.komentar ul li ul li {
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 16px;
+}
+
+.nama { font-size: 17px; font-weight: bold;}
+
+p.txt-komentar { font-weight: bold;}
+
+.input-komentar label{color: #292562;}
+
+.input-komentar button{
+  width: 100%;
+  color: #292562;
+  border: 2px solid #292562;
+}
+
+.input-komentar button:hover{
+  background-color: #292562;
+  color: #ffffff;
+}
+
+
+.toolbar {
+    background-color: #F7F7F7;
+    padding: 11px 9px;
+    border-radius: 5px;
+}
+
+
+h2.judul-deskripsi { margin-top: 51px;font-size: 45px;}
+
+
+.deskripsi ul li {
+    font-size: 16px;
+    margin-bottom: 11px;
+    border-bottom: 2px solid darkgray;
+    padding: 6px;
+}
+
+.deskripsi ul li i { margin-right: 16px;}
+
+
+.komentar ul {
+    padding-left: 0px;
+}
